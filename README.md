@@ -33,3 +33,4 @@
 - Pasamos a preparar los archivos que he modificado co nel comando **git add prueba1.txt** y el segundo tambien lo preparamos ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/22.png)
 - Comentamos el cabio con el comando **git commit -m "my snapshot"** ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/23.png)
 - Realizamos la subida con el comando **git push origin alejandro-onfire** ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/24.png)
+- Por ultimo comprobamos que se ha generado en la web los cambios realizados ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/25.png)
