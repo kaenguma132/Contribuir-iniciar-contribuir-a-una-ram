@@ -9,3 +9,5 @@
 - Apuntamos al repositorio que creamos con el comando **git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git** que en este caso es el que he creado al principio ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/4.png)
 - Subimos el archivo creado co nel comando **git push --set-upstream origin master** y vemos que se ha creado correctamente ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/5.png)
 - Y en la web vemos como se ha creado correctamente ![GitHub Logo](/Contribuir-iniciar-contribuir-a-una-ram/6.png)
+
+
